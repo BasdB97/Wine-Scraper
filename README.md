@@ -10,4 +10,4 @@ A Python web scraper that extracts wine data from online store (gall.nl). The sc
 Output data is converted to a json file.
 
 # Usage
-Executing the script scapes the first 10 pages from https://www.gall.nl/wijn/rode-wijn/
+Executing the script scrapes the first 10 pages from https://www.gall.nl/wijn/rode-wijn/
